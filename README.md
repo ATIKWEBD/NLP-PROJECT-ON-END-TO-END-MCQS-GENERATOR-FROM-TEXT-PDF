@@ -1,4 +1,4 @@
-Of course. Here is a fine-tuned and highly detailed README section that breaks down the project's technical architecture and logic.
+
 
 # Automatic MCQ Generator using NLP
 
